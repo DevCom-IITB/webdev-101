@@ -5,7 +5,7 @@
 ![Alt Text](assets/3223049_5074_2.jpg)
 
 
- #### This doc aims to give a holistic overview on two of the most important topics for any web development project i.e HTML and CSS.
+ #### This doc aims to give a holistic overview on two of the most important languages for any web development project i.e HTML and CSS.
  #### HTML is the language using which we define the structure of any webpage you see on the internet and to make it look amazing we take help of the Cascading Style Sheets (CSS)
 
 
@@ -20,7 +20,8 @@
   - Subpoint 3
 
  
-[HTML](html.md)
-[CSS](css.md)
+[HTML](html.md)   [CSS](css.md)
+
+
 
 
