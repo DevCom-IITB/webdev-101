@@ -25,7 +25,7 @@ By Abhijat Bhardwaj and Chaitanya Keshri
   - Syntax
   - Selectors
   - Common CSS Properties
-  - "Centering a Div"
+  - Centering a Div
   - Responsive design
 -  **Creating your own webpages**
 
