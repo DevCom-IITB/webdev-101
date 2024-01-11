@@ -316,7 +316,40 @@ Basic HTML tags are the fundamental building blocks used to structure and format
     </table>
 
     ```
+    ### Attributes
+In HTML, the `id` and `class` attributes are commonly used to provide additional information about elements :
+
+1. **`id` Attribute:**
+   - The `id` attribute is used to uniquely identify an HTML element within a document.
+   - The value of the `id` attribute must be unique within the HTML document, meaning no two elements should have the same `id`.
+   - It is often used to link to a specific element using fragment identifiers in URLs or to target elements with CSS and JavaScript.
+   - Example:
+
+     ```html
+     <div id="uniqueElement">This is a unique element.</div>
+     ```
+
+2. **`class` Attribute:**
+   - The `class` attribute is used to specify one or more class names for an HTML element.
+   - Class names can be shared among multiple elements, allowing you to apply the same styling or behavior to multiple elements.
+   - You can define styles for a class in CSS and apply JavaScript actions to elements with a particular class.
+   - Multiple classes can be applied to an element by separating them with spaces.
+   - Example:
+
+     ```html
+     <p class="highlighted">This paragraph has a special style.</p>
+     ```
+
+     In this example, the `highlighted` class might be defined in a CSS stylesheet with specific styling.
+
+   - Example with multiple classes:
+
+     ```html
+     <p class="highlighted important">This paragraph is both highlighted and important.</p>
+     ```
+
+     Here, the element has both the `highlighted` and `important` classes.
+
+These attributes are fundamental for styling and scripting in web development, allowing developers to target specific elements and apply styles or functionality. They are widely used in conjunction with CSS for styling and JavaScript for dynamic behavior on the client side.
 
 
-
-These are some of the basic HTML tags that provide essential structure and formatting to web documents. By combining and nesting these tags, you can create well-organized and visually appealing web pages.
