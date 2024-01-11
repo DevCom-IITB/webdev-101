@@ -1,6 +1,6 @@
 # Welcome to WebDev 101 
 
-<sub><sup> By Abhijat Bhardwaj & Chaitanya Keshri </sup></sub>
+By Abhijat Bhardwaj and Chaitanya Keshri
 
 ![Alt Text](assets/3223049_5074_2.jpg)
 
@@ -10,17 +10,28 @@
 
 
 
-## What you will learn
-
-- HTML Elements
-  - Subpoint 1
-  - Subpoint 2
-    - Sub-subpoint A
-    - Sub-subpoint B
-  - Subpoint 3
+## At the end of this session, you will learn
+- **HTML**
+  - Role of HTML
+  - Document structure
+  - HTML elements
+  - Tags
+  - Attributes
+  - Data representation
+  - Tables
+  - Links
+- **CSS**
+  - Role of CSS
+  - Syntax
+  - Selectors
+  - Common CSS Properties
+  - "Centering a Div"
+  - Responsive design
+-  **Creating your own webpages**
 
  
-[HTML](html.md)   [CSS](css.md)
+[HTML >>](html.md)    
+[CSS >>](css.md)
 
 
 

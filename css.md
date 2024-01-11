@@ -220,3 +220,11 @@ The `calc()` function performs a calculation to be used as the property value.
   padding: 5px;
 }
 ```
+```css
+#Content{
+    margin: auto;
+    width: min(70%, 1200px);
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+```
