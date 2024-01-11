@@ -314,10 +314,32 @@ Basic HTML tags are the fundamental building blocks used to structure and format
     <td>Data 2</td>
     </tr>
     </table>
-
     ```
-    ### Attributes
-In HTML, the `id` and `class` attributes are commonly used to provide additional information about elements :
+1. **`<input>`**
+   The `<input>` tag along with the `<form>` tag is used to specify various kinds input fields, creating a whole new architecture of web-based-forms.
+
+   ```html
+    <form>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname">
+    </form>
+    ```
+
+    |Type|Description|
+    |------|----------------|
+    |`<input type="text">` |Displays a single-line text input field|
+    |`<input type="radio">` |Displays a radio button (for selecting one of many choices)|
+    |`<input type="checkbox">`|Displays a checkbox (for selecting zero or more of many choices)|
+    |`<input type="submit">`|Displays a submit button (for submitting the form)|
+    |`<input type="button">`|Displays a clickable button|
+
+
+### Attributes
+In HTML, attributes are used to specify certain properties of the elements, like img tag has an src attribute.
+
+The `id` and `class` attributes are commonly used to provide additional information about elements :
 
 1. **`id` Attribute:**
    - The `id` attribute is used to uniquely identify an HTML element within a document.
